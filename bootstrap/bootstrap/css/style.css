@@ -1,6 +1,3 @@
-.regular{
-    font-weight: normal;
-}
 .section2-height{
     height: 465px;
 }
@@ -14,10 +11,4 @@
 }
 .icon-size{
     width: 45px;
-}
-.h3-font{
-    font-size: 18px;
-}
-.p-font{
-    font-size: 14px;
 }
