@@ -1,3 +1,4 @@
+/* section 1 */
 .box-size{
     width: 232px;
     height: 225px;
@@ -6,6 +7,14 @@
     width: 60px;
     height: 2px;
 }
+.image-size{
+    width: 477px;
+}
+.div-size{
+    width: 505px;
+}
+
+/* section 2 */
 .icon-size{
     width: 45px;
 }
