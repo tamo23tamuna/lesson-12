@@ -1,20 +1,23 @@
-/* section 1 */
+/* section 2 */
 .box-size{
     width: 232px;
     height: 225px;
+}
+.icon-size{
+    width: 45px;
 }
 .divider-size{
     width: 60px;
     height: 2px;
 }
-.image-size{
-    width: 477px;
+@media (max-width: 1920px) {
+    .row-height{
+        height: 654px;
+    }
 }
-.div-size{
-    width: 505px;
+@media (max-width: 767px) {
+    .row-height{
+        height: 1280px;
+    }
 }
 
-/* section 2 */
-.icon-size{
-    width: 45px;
-}
